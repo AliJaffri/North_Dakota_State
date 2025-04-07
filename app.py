@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # ------------------ CONFIG ------------------
 st.set_page_config(page_title="Projects Comparison Tool", layout="centered")
-st.image("mssu_logo.png", width=150)
+st.image("North_Dakota.jpeg", width=150)
 
 st.title("Capital Budgeting Techniques Project Comparison Tool")
 st.markdown("Compare two investment projects using Payback Period, Net Present Value (NPV), and Profitability Index (PI).")
