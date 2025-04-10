@@ -128,4 +128,4 @@ for reason in decision_reasons:
     st.markdown(f"- {reason}")
 
 st.markdown("---")
-st.markdown("*Developed for MSSU Capital Budgeting Analysis*")
+st.markdown("*Developed for North Dakota Capital Budgeting Analysis*")
